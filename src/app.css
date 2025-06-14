@@ -16,5 +16,12 @@
 
     --font-head: 'Poppins', 'sans-serif';
     --font-body: 'Poppins', 'sans-serif';
-    --font-sp: 'Beautifully Delicious Script', 'sans-serif';
+    --font-sp: 'Beautifully Delicious Script';
+}
+
+@font-face {
+  font-family: 'Beautifully Delicious Script';
+  src: url('/BDScript-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
 }

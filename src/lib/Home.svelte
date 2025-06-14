@@ -18,18 +18,19 @@
 
     <div class="h-96 bg-brown flex flex-col items-center justify-end pb-8">
 
-         <div class="p-8 z-20 bg-[rgba(255,255,255,0.5)] w-136"> 
+         <div class="p-8 z-20 bg-white/80 dark:bg-black/50 backdrop-blur-[5px] w-full lg:w-136"> 
 
-            <h1 class="text-5xl italic font-sp font-light text-center">Hello!</h1>
+            <h1 class="text-8xl font-light font-sp text-center">Hello!</h1>
             <p class="w-full text-center font-body font-normal">
         Hello, I'm Surafel Asamnew, a creative spirit with a diverse background in imaginative design and marketing. 
         I find joy in bringing ideas to life through serene illustrations. Known for my calm demeanor, I'm a hardworking and punctual individual, always evolving and future-oriented. 
         If given the chance, I'm eager to contribute to the success of your mission. 
          </p>
 
+          <p class="p-2 bg-brown w-48 justify-self-center text-center text-white font-head font-bold">Thank you for your consideration.</p>
+
          </div>
     </div>
 
 </div>
 
-<br><br><br><br><br>
