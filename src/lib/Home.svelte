@@ -1,4 +1,5 @@
 <script>
+    import {h1} from "$lib/global.svelte"
 
 </script>
 
@@ -18,9 +19,9 @@
 
     <div class="h-96 bg-brown flex flex-col items-center justify-end pb-8">
 
-         <div class="p-8 z-20 bg-white/80 dark:bg-black/50 backdrop-blur-[5px] w-full lg:w-136"> 
+         <div class="p-8 z-20 bg-gray-300/80 dark:bg-black/50 backdrop-blur-[5px] w-full lg:w-136"> 
 
-            <h1 class="text-8xl font-light font-sp text-center">Hello!</h1>
+            <h1 class={h1}>Hello!</h1>
             <p class="w-full text-center font-body font-normal">
         Hello, I'm Surafel Asamnew, a creative spirit with a diverse background in imaginative design and marketing. 
         I find joy in bringing ideas to life through serene illustrations. Known for my calm demeanor, I'm a hardworking and punctual individual, always evolving and future-oriented. 
