@@ -4,10 +4,10 @@
     let photogrid = `flex flex-col justify-center items-center mt-0 lg:mt-[-120px]`;
 
 </script>
-<div class="flex flex-col justify-center items-center gap-4 p-4 mb-48">
+<div class="flex flex-col justify-center items-center gap-4 p-4 mb-48 bg-white/90 dark:bg-black/40">
 <h1 class={h1}>About</h1>
 
-<p class="text-center text-ld font-body w-full lg:w-1/2 font-light">
+<p class="text-center text-ld font-body w-full lg:w-1/2 font-light ">
 I'm Surafel, an illustrator/ Art Director dedicated to bringing my clients' wishes and desires to life. 
     
     Through creative brainstorming, I craft diverse design concepts that result in aesthetic creations tailored to our client's brand and target demographic. 

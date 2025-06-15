@@ -22,7 +22,7 @@
 
 <ModeWatcher />
 
-<div class="hidden lg:flex flex-row justify-between p-12 justify-self-center sticky top-0 bg-white/70 dark:bg-black/70 backdrop-blur-[5px] w-full">
+<div class="hidden lg:flex flex-row justify-between p-12 justify-self-center sticky top-0 bg-white/70 dark:bg-black/70 backdrop-blur-[5px] w-full z-50">
     <h1 class="font-head font-bold text-2xl dark:text-white text-dark-gray"><a href="/">SURAFEL ASMAMAW</a></h1> 
    <div class="flex flex-row justify-center gap-12 font-head">
     {#each sections as section}
